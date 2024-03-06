@@ -10,3 +10,4 @@ has_toc: false
 | Art Piece | Artist |  
 | :---   | :--- | 
 | Faces of Dimensionality | Ben Kizaric |
+|
