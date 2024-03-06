@@ -6,13 +6,13 @@ has_children: true
 has_toc: false
 ---
 
-# 2023: Celebrating Latinx voices in STEM!
+# 2023: Technical to Beautiful Data as Art Exhibition
 
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="Latinx in STEM">
-        <img src="assets/pics/LATINXinSTEM2.png" alt="diversity" title="Celebrating Latinx voices in STEM"/>
+    <a href="Data+Art">
+        <img src="../../assets/pics/TitleFig2.png" alt="diversity" title="Data+Art Exhibition"/>
     </a>
   </td>
   <td class="right">
@@ -21,11 +21,5 @@ has_toc: false
 </tr>
 </table>
 
-Join us for the "Celebrating Latinx voices in STEM" symposium on Thursday Oct 5 2023 (4-7pm CT) and Friday Oct 6 2023 (8-11am CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 
-**Thursday recording:** [YouTube Live](https://youtube.com/live/ZBAv9rZC83E?feature=share).
-
-**Friday recording:** [YouTube Live](https://youtube.com/live/2xhpUQyQ54I?feature=share).
-
-While you do not need to RSVP to attend the event, RSVPing in [this link](https://www.eventbrite.com/e/celebrating-latinx-voices-in-stem-october-56-tickets-719290937557?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) would allow us to have an approximate head count.
-However, feel free to simply attend even if you did not RSVP in the link above. Thanks!
+From molecular sequencers to astronomical observatories, scientists have generated rich data about the world around us. At human scales, internet and social media data has shaped our day-to-day lives. All of these developments have taken place in the span of a few short decades, and the pace of data generation only seems to accelerate. In spite of the pervasiveness of data, questions around it tend to be framed more narrowly, with an emphasis on its mathematical or computational aspects. However, recent years have seen a paradigm shift in our perception of data, as reflected in projects such as The Art of Data in the Museum of the City of New York and the Rand Art + Data initiative. In addition to being a collection of measurements of our universe, data is now also perceived as an artistic entity with a human dimension, one that elicits intellectual and emotional responses. 
