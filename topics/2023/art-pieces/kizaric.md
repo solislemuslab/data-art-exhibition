@@ -6,7 +6,7 @@ grand_parent: 2023
 nav_order: 1
 ---
 
-### Faces of Dimensionality
+### Faces of Dimensionality by Ben Kizaric
 
 <div class="container">
     <div class="row-fluid">
