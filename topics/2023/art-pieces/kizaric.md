@@ -2,7 +2,8 @@
 layout: default
 title: Faces of Dimensionality
 parent: Art Pieces
-nav_order: 2
+grand_parent: 2023
+nav_order: 1
 ---
 
 ### Faces of Dimensionality
