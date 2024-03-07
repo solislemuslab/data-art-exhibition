@@ -12,13 +12,13 @@ nav_order: 3
     <div class="row-fluid">
         <div class="span2">
             <a href="../../../assets/pics/ShichenQiao.jpeg">
-            <img src="../../../assets/pics/ShichenQiao.jpeg" width="120">
+            <img src="../../../assets/pics/ShichenQiao.jpeg" width="70">
             </a>
             <a href="../../../assets/pics/zhaoxingWu.jpg">
-            <img src="../../../assets/pics/zhaoxingWu.jpg" width="120">
+            <img src="../../../assets/pics/zhaoxingWu.jpg" width="150">
             </a>
-            <a href="../../../assets/pics/hailey.jpg">
-            <img src="../../../assets/pics/hailey.jpg" width="120">
+            <a href="../../../assets/pics/hailey.JPG">
+            <img src="../../../assets/pics/hailey.JPG" width="120">
             </a>
             <a href="../../../assets/pics/claudiaSmall1.png">
             <img src="../../../assets/pics/claudiaSmall1.png" width="120">
@@ -29,7 +29,7 @@ nav_order: 3
             <img src="../../../assets/pics/fisher.png" width="320">
             </a> 
             <a href="../../../assets/pics/perspective-text.png">
-            <img src="../../../assets/pics/perspective-text.png" width="375">
+            <img src="../../../assets/pics/perspective-text.png" width="370">
             </a>
         </div>
     </div>
