@@ -20,7 +20,7 @@ nav_order: 1
             <img src="../../../assets/pics/faces.png" width="320">
             </a> 
             <a href="../../../assets/pics/faces-text.png">
-            <img src="../../../assets/pics/faces-text.png" width="320">
+            <img src="../../../assets/pics/faces-text.png" width="350">
             </a>
         </div>
     </div>
