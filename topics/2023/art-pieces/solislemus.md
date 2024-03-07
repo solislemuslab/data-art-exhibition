@@ -3,7 +3,7 @@ layout: default
 title: Perspective
 parent: Art Pieces
 grand_parent: 2023
-nav_order: 1
+nav_order: 3
 ---
 
 ### It's all a matter of perspective by the Solis-Lemus lab
